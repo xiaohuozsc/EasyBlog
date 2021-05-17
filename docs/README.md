@@ -1,3 +1,3 @@
-# Headline
+# 介绍
 
-> An awesome project.
+> 本项目用来记录和分享一个码农的成长。
